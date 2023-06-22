@@ -1,6 +1,6 @@
 # Real_Time_Attendence_System
 
-A real-time attendance system using Python typically involves capturing and processing real-time attendance data, utilizing various technologies such as biometrics, RFID (Radio Frequency Identification), or facial recognition.
+A real-time attendance system using Python typically involves capturing and processing real-time attendance data, utilizing various technologies such as biometrics, RFID (Radio Frequency Identification) or facial recognition.
 ## Real-Time Attendance System using OpenCV and Google Firebase
 
 This application is a real-time attendance system developed using Python and various libraries such as OpenCV, Google Firebase, and more. The system allows for live attendance marking by capturing images through a camera, generating facial encodings, and updating the attendance records in a Firebase database.
