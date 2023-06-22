@@ -85,6 +85,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ### Contact
 
-If you have any questions or suggestions, feel free to reach out to [your-email@example.com](mailto:kumarashish96690@gmail.com).
+If you have any questions or suggestions, feel free to reach out to [kumarashish96690@gmail.com](mailto:kumarashish96690@gmail.com).
 
 We hope this information helps you create a comprehensive and informative GitHub repository for your real-time attendance application.
