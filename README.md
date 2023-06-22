@@ -43,7 +43,10 @@ This application is a real-time attendance system developed using Python and var
    - Create a Firebase project and obtain the credentials.
    - Place the Firebase credentials JSON file in the project directory.
 
-4. Run the application:
+4. Upload the images in the images folder along with the names of the student:
+   - Goto images folder and paste the student images along with their names.
+
+5. Run the application:
    ```
    python main.py
    ```
